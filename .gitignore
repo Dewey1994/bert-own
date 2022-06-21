@@ -10,6 +10,7 @@
 .recommenders/
 **/.springBeans
 **/.factorypath
+.idea/
 *.iml
 /bin/
 **/bin/
